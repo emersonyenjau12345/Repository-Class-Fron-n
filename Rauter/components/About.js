@@ -8,7 +8,7 @@ function About () {
             </h2>
 
             Klik di sini untuk masuk ke github :
-            <a href="https://github.com/dashboard">
+            <a href="https://frontendmasters.com/guides/front-end-handbook/2019/">
             https://frontendmasters.com/guides/front-end-handbook/2019/
             </a>
         </div>
